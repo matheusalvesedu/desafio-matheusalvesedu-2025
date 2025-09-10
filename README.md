@@ -85,8 +85,6 @@ npm test
 
 Para saber mais consulte a [Documentação do Jest](https://jest-archive-august-2023.netlify.app/pt-BR/docs/getting-started).
 
-### VALIDANDO A ENTREGA
-Para garantir que seu desafio vai ser considerado entregue, revise os seguintes pontos:
 
 
 ![Exemplo de repositório](estrutura-repositorio.png)
